@@ -1,7 +1,7 @@
 {
   "name": "budget-calculator",
   "version": "1.0.0",
-  "homepage": "https://urk23cs1201.github.io/ex7",
+  "homepage": "https://URK23CS1201.github.io/ex7",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
